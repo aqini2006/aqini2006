@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aqini2006
-- 👀 I’m interested ML
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested ML in industry
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on github\email
 - 📫 How to reach me ..82038470@qq.com
 
 <!---
